@@ -1,3 +1,4 @@
+![logo](https://github.com/Rizwankaka/Rizwankaka/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rizwan Rizwan</h1>
 <h3 align="center">A passionate Mechanical and energy engineer and data analyst</h3>
 
