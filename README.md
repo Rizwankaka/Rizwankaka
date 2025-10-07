@@ -1,5 +1,5 @@
 ![logo](https://github.com/Rizwankaka/Rizwankaka/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Rizwan Rizwan</h1>
+<h1 align="center">Hi 👋, I'm Salmam Abdul Rehman</h1>
 <h3 align="center">A passionate Mechanical/ Sustainable Energy Engineer and Data Analyst</h3>
 
 - 🔭 I’m currently working on **python, machine learning, deep learning, streamlit, opencv, artificial intelligence**
